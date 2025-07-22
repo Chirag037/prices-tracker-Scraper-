@@ -5,6 +5,7 @@ This Python-based automation tool monitors the price of any Amazon product in re
 This Python-based automation tool monitors the price of any Amazon product in real-time and automatically notifies you via email when the price drops below your desired threshold. It helps users effortlessly track deals without having to manually check product pages.
 
 ---
+![Alt Text](screenshot.png)
 
 ## 🚀 Features
 
